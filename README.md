@@ -1,6 +1,6 @@
 # **Kernel projects for Linux**
 
-<img src="img/kernel.jpg" width="480" alt="Combined Image" />
+<img src="img/kernel.png" width="480" alt="Combined Image" />
 
 Overview
 ---
@@ -8,7 +8,7 @@ The repo contains Kernel projects for Linux
 
 List of projects
 ---
-*  [Project 1: System Monitor](https://github.com/tranlyvu/kernel-projects-for-linux/tree/master/system_monitor)
+*  [Project 1: System Monitor](https://github.com/tranlyvu/kernel-projects-for-linux)
 
 Contribution
 ---
@@ -23,4 +23,4 @@ Feel free to contact me to discuss any issues, questions, or comments.
 
 License
 ---
-See the [LICENSE](https://github.com/tranlyvu/autonomous-vehicle-projects/blob/master/LICENSE) file for license rights and limitations (Apache License 2.0).
+See the [LICENSE](https://github.com/tranlyvu/kernel-projects-for-linux/blob/master/LICENSE) file for license rights and limitations (Apache License 2.0).
