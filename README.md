@@ -1,6 +1,6 @@
 # **Kernel projects for Linux**
 
-<img src="img/kernel.png" width="480" alt="Combined Image" />
+<img src="img/kernel.png" width="400" alt="Combined Image" />
 
 Overview
 ---
