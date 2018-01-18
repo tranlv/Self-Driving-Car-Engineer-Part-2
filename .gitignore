@@ -1,2 +1,6 @@
 **.pyc
+.idea
+.idea/**
+env
+.env
 
