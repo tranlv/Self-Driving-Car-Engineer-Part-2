@@ -1,6 +1,6 @@
 # **Computer Networking Project**
 
-The repo contains projects from Self-Driving Car Engineer Nanodegree - Part 1 : Sensor Fusion, Localization, and Control
+The repo contains projects from Self-Driving Car Engineer Nanodegree - Part 2: Sensor Fusion, Localization, and Control
 
 ---
 List of Projects
