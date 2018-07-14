@@ -3,6 +3,21 @@
 A collection of projects from Georgia Tech's [Computer Networking](https://www.udacity.com/course/computer-networking--ud436) course.
 
 ---
+List of Projects
+---
+
+* Project 0 - [Extended Kalman Filter](https://github.com/tranlyvu/autonomous-vehicle-projects/tree/master/Extended%20Kalman%20Filter): Utilized a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements.
+
+* Project 1 - [Unscented Kalman Filter](https://github.com/tranlyvu/autonomous-vehicle-projects/tree/master/Unscented%20Kalman%20Filter): Utilized an Unscented Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements.
+
+* Project 2 - [Kidnapped Vehicle](https://github.com/tranlyvu/autonomous-vehicle-projects/tree/master/Kidnapped%20Vehicle): Implemented a 2 dimensional particle filter in C++.
+
+* Project 3 - [PID Control](https://github.com/tranlyvu/autonomous-vehicle-projects/tree/master/PID%20Control): Implemented a PID controller in C++ to maneuver the vehicle around the track.
+
+* Project 4 - [Model Predictive Control](https://github.com/tranlyvu/autonomous-vehicle-projects/tree/master/Model_Predictive_Control): Implemented Model Predictive Control to drive the car around the track.
+
+
+---
 Contribution
 ---
 Contributions are welcome! For bug reports or requests please submit an [issue](https://github.com/tranlyvu/computer-networking-projects/issues).
