@@ -1,4 +1,4 @@
-# **Self-Driving Car Engineer - Part 2**
+# **Self-Driving Car Engineer - Part 2** [![HitCount](http://hits.dwyl.io/tranlyvu/Self-Driving-Car-Engineer-Part-2.svg)](http://hits.dwyl.io/tranlyvu/Self-Driving-Car-Engineer-Part-2) [![star this repo](http://githubbadges.com/star.svg?user=tranlyvu&repo=Self-Driving-Car-Engineer-Part-2&style=default)](https://github.com/tranlyvu/Self-Driving-Car-Engineer-Part-2) [![fork this repo](http://githubbadges.com/fork.svg?user=tranlyvu&repo=Self-Driving-Car-Engineer-Part-2&style=default)](https://github.com/tranlyvu/Self-Driving-Car-Engineer-Part-2/fork)
 
 The repo contains projects from Self-Driving Car Engineer Nanodegree - Part 2: Sensor Fusion, Localization, and Control
 
@@ -7,8 +7,8 @@ Table of contents
 ---
 
 1. [List of Projects](#List-of-Projects)
-2. [Release History](#Release-History)
-3. [Contribution](#Contribution)
+2. [Contribution](#Contribution)
+3. [Release History](#Release-History)
 4. [Contact](#Contact)
 5. [License](#License)
 
@@ -26,6 +26,18 @@ List of Projects
 
 * Project 4 - [Model Predictive Control](https://github.com/tranlyvu/Self-Driving-Car-Engineer-Part-2/tree/master/Model_Predictive_Control): Implemented Model Predictive Control to drive the car around the track.
 
+---
+Contribution
+---
+
+Please follow [contribution instruction](https://github.com/tranlyvu/Self-Driving-Car-Engineer-Part-2/blob/dev/CONTRIBUTING.md) and [code of conduct](https://github.com/tranlyvu/Self-Driving-Car-Engineer-Part-2/blob/dev/CODE-OF-CONDUCT.md)
+
+### [List of contributors](https://github.com/tranlyvu/Self-Driving-Car-Engineer-Part-2/blob/dev/CONTRIBUTORS.md) [![Open Source Helpers](https://www.codetriage.com/tranlyvu/self-driving-car-engineer-part-2/badges/users.svg)](https://www.codetriage.com/tranlyvu/self-driving-car-engineer-part-2)
+
+### Hall of Fame
+
+[![](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/images/0)](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/links/0)[![](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/images/1)](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/links/1)[![](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/images/2)](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/links/2)[![](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/images/3)](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/links/3)[![](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/images/4)](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/links/4)[![](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/images/5)](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/links/5)[![](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/images/6)](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/links/6)[![](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/images/7)](https://sourcerer.io/fame/tranlyvu/tranlyvu/Self-Driving-Car-Engineer-Part-2/links/7)
+
 --- 
 Release History
 ---
@@ -34,43 +46,15 @@ Release History
 	* First official release
 
 ---
-Contribution
----
-Contributions are welcome! For bug reports or requests please submit an [issue](https://github.com/tranlyvu/Self-Driving-Car-Engineer-Part-2/issues).
-
-For new feature contribution, please follow the following instruction:
-
-1. Fork the repo https://github.com/tranlyvu/Self-Driving-Car-Engineer-Part-2.git to your own github
-
-2. Clone from your own repo
-
-`$ git clone https://github.com/<your name>/Self-Driving-Car-Engineer-Part-2.git`
-
-3. Make sure you are at dev branch 
-
-`$ git checkout dev && git pull`
-
-4. Create your feature/bug-fix branch
-
-`$ git checkout -b <feature/bug>/<branch-name>`
-
-5. Commit your changes 
-
-`$ git commit -am 'Add some new feature'`
-
-6. Push to the branch 
-
-`$ git push`
-
-7. Go to your own repo and create a new Pull Request against 'dev' branch
-
----
 Contact
 ---
 Feel free to contact me to discuss any issues, questions, or comments.
 *  Email: vutransingapore@gmail.com
 *  Linkedln: [@vutransingapore](https://www.linkedin.com/in/tranlyvu/)
 *  GitHub: [Tran Ly Vu](https://github.com/tranlyvu)
+*  Blog: [tranlyvu.github.io](https://tranlyvu.github.io/)
+
+If you like my project, feel fee to leave a few words of appreciation here [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/tranlyvu)
 
 ---
 License
